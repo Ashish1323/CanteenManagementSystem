@@ -27,7 +27,7 @@ Advantages:
 
 Note:
      1.I have use PHP platform and xampp server for my project.
-     2.I have created home page and sing in page.
+     2.I have created home page and sign in page.
      3. I have also created sign up page for user registration.
      4. Created database in xampp for user registration.
      5. User can sign in and go through the different canteen list.
